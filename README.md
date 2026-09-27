@@ -52,3 +52,5 @@ Which team should handle this message?
   }
 }
 ```
+
+`Billing` is the correct answer.
